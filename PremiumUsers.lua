@@ -1,0 +1,3 @@
+local PremiumUsers = {}
+
+return PremiumUsers
