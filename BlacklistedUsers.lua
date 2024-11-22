@@ -1,0 +1,3 @@
+local BlacklistedUsers = {}
+
+return BlacklistedUsers
