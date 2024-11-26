@@ -30,13 +30,6 @@ function CheckPlayer(player)
             end
         end
     end
-
-    player.CharacterAdded:Connect(function(character)
-        local HRT = character.HumanoidRootPart
-        if HRT.CollisionGroup == "VR" then
-            HRT.CollisionGroup = "Players"
-        end
-    end)
 end
 
 return CheckPlayer
