@@ -1,7 +1,8 @@
 local Emojis = {
     Crown = "👑",
     Star = "⭐",
-    Normal = "😎"
+    Normal = "😎",
+    Custom = "🔥"
 }
 
 return Emojis
