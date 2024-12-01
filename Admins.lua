@@ -9,7 +9,10 @@ local Admins = {
     1151917188, -- 006I7
     4798578151, -- ziad_amr15
     5641542715, -- ziad_amr151
-    1794796236 -- SouIisDeath
+    1794796236, -- SouIisDeath
+    4159620298, -- GodObjects
+    5664216985, -- SINCEwhenBaraaBan
+    
 }
 
 return Admins
